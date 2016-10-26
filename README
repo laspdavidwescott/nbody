@@ -1,0 +1,8 @@
+This code is meant to be run using Python v3.x. With a few modifications
+(the print statements), it can be run with Python v2.7.x.
+
+Python Package Requirements:
+- PyOpenGL
+- numpy
+- pyqtgraph
+- PyQt4
